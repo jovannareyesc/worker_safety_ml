@@ -1,7 +1,35 @@
-# WORKER SAFETY: Machine Learning Project
-The American Dream one might say is blinding; it shines like no other in the world and dazzles those who are used to utter pitch darkness. However, how much darkness is one to tolerate under this very dream?
-Millions of immigrants who come from the most devilish wars, corrupt governments, and totalitarian regimes find themselves attracted to the United States like moth to a fire. They come here to find a space where they can feel safe and grow and provide for their families. What many have come to realize and experience first-hand is how brutal this dream can be. 
-A near total absence of healthcare, incredibly high living-costs, and the hassle of growing accustomed to a new way of living, thinking, and even speaking, wakes many people to the stark reality of the dream they were sold on to.
-Not only are many of these immigrants exposed to hazardous conditions by just being in the United States without healthcare or a familial support system, they are exposed to the insidious reality that contemporary America is facing: violent crime.
-Even though many of the statistics are pointing toward a positively negative trend in crime in America, the small percentage of the ongoing crime rates concentrate in very specific areas. These areas are many of the areas that immigrant low-skill workers are exposed to because of the nature of the jobs that they can attain by being an alien in the country. Many are exposed to extreme heat conditions out in the green californian fields or the crime-ridden cities that require the manpower of people who are willing to do the minimum-wage paying jobs that no other demographic will put themselves at risk for. 
-Law enforcement is not fast enough and millions of immigrant workers and their families are put at constant life-threatening risk that they so desperately wished to get away from in the first place. Truth is, many of them have grown so accustomed to the criminality that it now takes high-stakes and the most vile of crimes for agents to step-in. My project has at is core the mission to implement machine learning to detect early patterns of unsafe and threatening situations that the police or any other law enforcement agent could hope to be fast enough for. My purpose of doing this is to detect the early signs and trends in order to trigger silent alerts to protect these workers. Not only will the awareness bring in an already more leveled playing field, but it will also bring about to power to be prepared and know what to do in these unfortunate situations.
+# WORKER SAFETY: Machine Learning For Real-Time Worker Protection
+The American Dream shines like no other in the world.
+It dazzles those who come from utter darkness—wars, corrupt regimes, and collapsed economies.
+
+But how much darkness must one endure under this dream?
+
+Millions of immigrants arrive in the United States seeking safety, growth, and the ability to provide for their families. But what they often find instead is a harsh reality:
+
+1. No dignified access to healthcares
+2. Sky-high living costs
+3. Cultural, linguistic, and even psychological alienation
+4. And worst of all—exposure to violent crime, especially in the minimum-
+
+While national crime rates may be declining, violence is concentrating in specific areas—the very ones where immigrant, low-skill workers are sent. Many work in extreme heat, unsafe environments, or crime-ridden urban zones just to survive or live paycheck to paycheck.
+
+## Mission
+My project aims to use machine learning to detect early signs of unsafe and threatening activity. Particularly in small businesses, convenience stores, and gas stations that are heavily staffed by underprotected immigrant workers.
+
+Law enforcement agents can’t respond fast enough.
+So what if we could detect threats before they escalate?
+
+## Tasks To Undertake
+-> Analyze real-time security footage using ML and computer vision
+
+-> Detect patterns of suspicious group behavior (e.g., mob formations, fast clustering)
+
+-> Trigger silent alerts for store clerks and owners
+
+-> Create a low-cost, scalable solution for real-world, real-risk environments
+
+### P.S.
+This is an early-stage passion project being developed as I learn and grow in the field of machine learning.
+If you're a developer, researcher, or someone who resonates with this mission—let’s connect.
+
+Together, we can use tech not just to innovate, but to protect.
