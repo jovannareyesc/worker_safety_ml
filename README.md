@@ -6,7 +6,7 @@ But how much darkness must one endure under this dream?
 
 Millions of immigrants arrive in the United States seeking safety, growth, and the ability to provide for their families. But what they often find instead is a harsh reality:
 
-1. No dignified access to healthcares
+1. No dignified access to healthcare
 2. Sky-high living costs
 3. Cultural, linguistic, and even psychological alienation
 4. And worst of all—exposure to violent crime, especially in the minimum-
